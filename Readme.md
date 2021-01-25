@@ -2,6 +2,7 @@
 we have solved a real-life data acquisition and processing problem based on the stock price prediction. We have designed a solution including steps of finding the data, acquiring and storing the data, cleaning and preprocessing the data, training the model and finally analysing the data.
 
 **Author: Zedong Chu**
+
 **Course Code: ELEC0136 20/21**
 
 ## Requirements
